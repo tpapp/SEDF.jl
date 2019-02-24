@@ -1,0 +1,11 @@
+name = "SEDF"
+uuid = "1080d30b-3a7e-5da4-b2d0-da15f056efa8"
+authors = ["Tamas K. Papp <tkpapp@gmail.com>"]
+
+[deps]
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
